@@ -1,4 +1,4 @@
-site
+Git Host Test Site
 ====
 
-Do you even website bro!
+Simple website used to test some of the Github hosting features. 
